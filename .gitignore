@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+
+# DevStudio artefacts
+Debug/
+ipch/
+*.opensdf
+*.sdf
+*.vcxproj.user
+*.suo
